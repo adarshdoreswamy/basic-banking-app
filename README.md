@@ -1,5 +1,5 @@
 # basic-banking-app
-This is a Simple app which have transaction details and user interogation
+basic bankijng transaction app .which gives you transaction details and and balance sheet 
 
 tools used 
 android studio version9 
